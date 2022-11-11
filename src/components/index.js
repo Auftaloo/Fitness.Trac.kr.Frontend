@@ -1,0 +1,12 @@
+export { default as Navbar } from "./navbar";
+export { default as Activities } from "./activities";
+export { default as Home } from "./home";
+export { default as Login } from "./login";
+export { default as Register } from "./register";
+export { default as MyRoutines } from "./myRoutines";
+export { default as Routines } from "./routines";
+export { default as CreateRoutine } from "./createRoutine";
+export { default as CreateActivity } from "./createActivities";
+export { default as EditRoutine } from "./editRoutine";
+export { default as CreateRoutineActivity } from "./createRoutineActivity";
+export { default as EditRoutineActivity } from "./editRoutineActivity";
